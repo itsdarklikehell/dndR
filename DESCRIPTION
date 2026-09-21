@@ -1,7 +1,7 @@
 Package: dndR
 Type: Package
 Title: Dungeons & Dragons Functions for Players and Dungeon Masters
-Version: 3.1.1
+Version: 3.1.1.900
 Date: 2026-09-17
 Authors@R: c(
   person(given = "Nicholas", family = "Lyon", 

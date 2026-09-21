@@ -1,11 +1,15 @@
+# dndR Version 3.1.1.900
+
+This is the development version. Changes from the preceding version will be identified here as they are made.
+
 # dndR Version 3.1.1
 
-- Update maintainer email.
+- Updates maintainer email.
 
 # dndR Version 3.1.0
 
 - `npc_creator()` also returns first and last names for NPCs (in addition to race/species and a job).
-- Unit test update for `ggplot2` version `4.0.0`.
+- Updates relevant unit tests for `ggplot2` version `4.0.0`.
 
 # dndR Version 3.0.0
 
